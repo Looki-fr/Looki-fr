@@ -3,7 +3,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <p style="margin: 0; display: flex; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Looki-fr&show_icons=true&locale=en&theme=radical" alt="Looki-fr" style="margin-right: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Looki-fr&show_icons=true&locale=en&theme=radical&hide_rank=true" alt="Looki-fr" style="margin-right: 10px;" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Looki-fr&theme=radical&mode=weekly&hide_current_streak=true" alt="Looki-fr" />
   </p>
 </div>
